@@ -1,118 +1,99 @@
-# Hello, I'm Jonatas Souza 👋  
-*(Scroll down for the Portuguese version 🇧🇷)*  
+# Hi, I'm Jonatas Souza 👋
 
-<a href="https://www.linkedin.com/in/joonatassouza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  
-<a href="mailto:jonatasfelipe2@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>  
-<a href="https://wa.me/5545999295418" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>  
+**Senior Full Stack Engineer · Node.js & TypeScript · AWS · AI-assisted engineering**
 
-I'm a **Full-Stack Developer** and **Technology Leader** with over 10 years of experience. I’m passionate about transforming complex problems into elegant and efficient software solutions. Currently, as **VP of Technology Development at Vengreso**, I lead the innovation behind products like FlyMSG®.  
+[English](#english) · [Português](#portugues)
 
-- 🔭 Currently focused on developing productivity solutions leveraging Artificial Intelligence at Vengreso.  
-- 🌱 Recently completed a **Postgraduate Degree in Software Engineering** to deepen my knowledge in architecture and software quality.  
-- 🚀 Extensive experience optimizing codebases, leading the refactoring of hundreds of thousands of lines to improve performance and scalability.  
-- 👨‍💻 I lead high-performance teams by fostering collaboration, trust, and autonomy.  
+<a href="https://www.linkedin.com/in/joonatassouza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:jonatasfelipe2@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
+<a href="https://wa.me/5545999295418"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
----
+<a id="english"></a>
+## English
 
-### 🛠️ Key Skills
+I'm a software engineer with **10+ years of experience**, based in Toledo, Paraná, Brazil. I build web applications, APIs and browser extensions, combining hands-on development with architecture and technical leadership. My next challenge is a **hands-on Senior Engineer role**, working remotely with an international or Brazilian team.
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-      <br><strong>React</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular" />
-      <br><strong>Angular</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-      <br><strong>Node.js</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET" />
-      <br><strong>.NET</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-      <br><strong>PHP/Laravel</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-      <br><strong>MongoDB</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://static.cdnlogo.com/logos/a/19/aws.svg" width="40" height="40" alt="AWS" />
-      <br><strong>AWS</strong>
-    </td>
-  </tr>
-</table>
+### Selected experience
 
----
+**Vengreso / FlyMSG · April 2024 - present**
 
-### ✨ My Projects and Contributions  
+Currently **VP of Technology Development** since January 2025, with direct involvement in coding, architecture and delivery. Previously Senior Software Development Engineer and Manager of Application Development.
 
-- 📄 **[Interactive Resume](https://joonatassouza.github.io/)**  
-- 🚀 **[FlyMSG Chrome Extension](https://chromewebstore.google.com/detail/flymsg-ai-writing-grammar/giidlnpcdhcldhfccdhkaicefhpokghc?hl=en&authuser=0)**: As part of Vengreso's team, I contributed significantly to this product, leading the complex migration from Manifest V2 to V3 to ensure compliance and new features.
+- Led FlyMSG's **Manifest V2-to-V3 migration**, delivering on time to avoid disruption from the deprecation deadline.
+- Built an internal task-management system connecting **Claude and Codex agents through MCP**, with custom skills and human orchestration. Using customized agents, reduced open and pending tasks **from 460 to 190 in two months**.
+- Implemented automated tests and CI/CD quality gates across Node.js, PHP/Laravel, Angular and React projects.
+- Modernized deployment infrastructure, moving from Jenkins and manual deployments to **AWS Elastic Beanstalk and automated CI/CD pipelines**.
+
+**Todos Empreendimentos LTDA · Desenvolvedor IV · May 2023 - September 2024 · Remote**
+
+- Helped bring a **legacy .NET-to-Node.js migration into production on AWS serverless**, participating in the initial scope and architecture design.
+- Was responsible for the squad covering **financial modules, membership-card integrations and subscriptions**, working with frontend, backend, product and other integration teams.
+- Developed the payment module and integrations with other modules. Worked in an AWS microservices environment using **Lambda, SQS, EventBridge, Step Functions, DynamoDB and CloudWatch**, with limited Kafka use.
+
+### Technology and engineering practices
+
+| Area | Experience |
+| --- | --- |
+| Backend | Node.js, TypeScript, JavaScript, PHP/Laravel, Fastify |
+| Frontend & extensions | React, Angular, Chrome/Chromium extensions, Manifest V3 |
+| Data | MongoDB, PostgreSQL, SQL Server, Redis, DynamoDB |
+| AWS | Lambda, SQS, EventBridge, Step Functions, CloudWatch, Elastic Beanstalk, EC2, S3, SES |
+| Quality & delivery | Jest, automated testing, CI/CD quality gates, legacy modernization |
+| AI-assisted engineering | Claude, Codex, MCP, custom skills and multi-agent task orchestration |
+
+I've actively used **Jest for at least two years**. My recent work also includes migrating a PHP/Laravel system to **Node.js with Fastify**. I have familiarity with Express and Next.js; my Kafka experience is limited and my Datadog knowledge is basic. Earlier professional experience includes .NET/C#, React Native, Expo, Xamarin and Selenium.
+
+### Education and languages
+
+- **Postgraduate MBA in Software Engineering** · Faculdade Metropolitana de São Paulo · 2023
+- **Undergraduate Technology Degree in Systems Analysis and Development** · UNIPAR · 2013-2015
+- **Node.js, React and React Native Bootcamp** · Rocketseat · 2019
+- Portuguese: native · English: C2
+
+[Portfolio / interactive CV](https://joonatassouza.github.io/) · [FlyMSG Chrome extension](https://chromewebstore.google.com/detail/flymsg-ai-writing-grammar/giidlnpcdhcldhfccdhkaicefhpokghc)
 
 ---
 
-## 💬 Português 🇧🇷  
+<a id="portugues"></a>
+## Português
 
-<a href="https://www.linkedin.com/in/joonatassouza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  
-<a href="mailto:jonatasfelipe2@hotmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>  
-<a href="https://wa.me/5545999295418" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>  
+Sou engenheiro de software com **mais de 10 anos de experiência**, baseado em Toledo, Paraná. Desenvolvo aplicações web, APIs e extensões de navegador, combinando programação, arquitetura e liderança técnica. Busco um novo desafio como **engenheiro sênior com atuação hands-on**, em trabalho remoto para equipes brasileiras ou internacionais.
 
-Sou um **Desenvolvedor Full-Stack** e **Líder de Tecnologia** com mais de 10 anos de experiência, apaixonado por transformar problemas complexos em soluções de software elegantes e eficientes. Atualmente, como **VP de Desenvolvimento de Tecnologia na Vengreso**, lidero a inovação por trás de produtos como o FlyMSG®.  
+### Experiências em destaque
 
-- 🔭 Atualmente, estou focado no desenvolvimento de soluções de produtividade com Inteligência Artificial na Vengreso.  
-- 🌱 Concluí recentemente minha **Pós-Graduação em Engenharia de Software** para aprofundar meus conhecimentos em arquitetura e qualidade de software.  
-- 🚀 Tenho ampla experiência em otimização de código, tendo liderado a refatoração de centenas de milhares de linhas de código para melhorar a performance e a escalabilidade de sistemas.  
-- 👨‍💻 Lidero equipes de alta performance, fomentando um ambiente de colaboração, confiança e autonomia.  
+**Vengreso / FlyMSG · Abril de 2024 - atual**
 
----
+Atualmente **VP de Desenvolvimento de Tecnologia**, desde janeiro de 2025, com atuação direta em programação, arquitetura e entrega. Anteriormente, fui Engenheiro de Desenvolvimento de Software Sênior e Gerente de Desenvolvimento de Aplicações.
 
-### 🛠️ Principais Competências
+- Liderei a **migração do FlyMSG do Manifest V2 para o V3**, com entrega no prazo para evitar interrupções decorrentes da descontinuação do Manifest V2.
+- Criei um sistema interno de gestão de tarefas conectado a **agentes Claude e Codex via MCP**, com skills próprias e orquestração humana. Com agentes customizados, reduzi as tarefas abertas e pendentes **de 460 para 190 em dois meses**.
+- Implementei testes automatizados e controles de qualidade no CI/CD de projetos Node.js, PHP/Laravel, Angular e React.
+- Modernizei a infraestrutura de implantação, migrando de Jenkins e deploys manuais para **AWS Elastic Beanstalk e pipelines automatizados de CI/CD**.
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
-      <br><strong>React</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular" />
-      <br><strong>Angular</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-      <br><strong>Node.js</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET" />
-      <br><strong>.NET</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-      <br><strong>PHP/Laravel</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-      <br><strong>MongoDB</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://static.cdnlogo.com/logos/a/19/aws.svg" width="40" height="40" alt="AWS" />
-      <br><strong>AWS</strong>
-    </td>
-  </tr>
-</table>
+**Todos Empreendimentos LTDA · Desenvolvedor IV · Maio de 2023 - setembro de 2024 · Remoto**
 
----
+- Contribuí para colocar em produção a **migração de um sistema legado .NET para Node.js em arquitetura serverless AWS**, participando do escopo inicial e das decisões de arquitetura.
+- Fiquei responsável pelo squad dos **módulos financeiros, integração de carteirinhas e assinaturas**, articulando frontend, backend, produto e integrações com outras equipes.
+- Desenvolvi o módulo de pagamentos e integrações com outros submódulos. Atuei em um ambiente de microsserviços com **Lambda, SQS, EventBridge, Step Functions, DynamoDB e CloudWatch**, com uso pontual de Kafka.
 
-### ✨ Meus Projetos e Contribuições  
+### Tecnologias e práticas de engenharia
 
-- 📄 **[Currículo Interativo](https://joonatassouza.github.io/)**  
-- 🚀 **[FlyMSG Chrome Extension](https://chromewebstore.google.com/detail/flymsg-ai-writing-grammar/giidlnpcdhcldhfccdhkaicefhpokghc?hl=en&authuser=0)**: Como parte da equipe da Vengreso, contribuí significativamente para este produto, incluindo a liderança na complexa migração do Manifest V2 para V3, garantindo conformidade e novas funcionalidades.  
+| Área | Experiência |
+| --- | --- |
+| Backend | Node.js, TypeScript, JavaScript, PHP/Laravel, Fastify |
+| Frontend e extensões | React, Angular, extensões Chrome/Chromium, Manifest V3 |
+| Dados | MongoDB, PostgreSQL, SQL Server, Redis, DynamoDB |
+| AWS | Lambda, SQS, EventBridge, Step Functions, CloudWatch, Elastic Beanstalk, EC2, S3, SES |
+| Qualidade e entrega | Jest, testes automatizados, controles de qualidade no CI/CD, modernização de sistemas legados |
+| Engenharia com IA | Claude, Codex, MCP, skills próprias e orquestração de tarefas com múltiplos agentes |
 
----
+Uso **Jest ativamente há pelo menos dois anos**. Meu trabalho recente também inclui a migração de um sistema PHP/Laravel para **Node.js com Fastify**. Tenho familiaridade com Express e Next.js, experiência pontual com Kafka e conhecimentos básicos de Datadog. Minha experiência profissional anterior inclui .NET/C#, React Native, Expo, Xamarin e Selenium.
+
+### Formação e idiomas
+
+- **Pós-graduação (MBA) em Engenharia de Software** · Faculdade Metropolitana de São Paulo · 2023
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** · UNIPAR · 2013-2015
+- **Bootcamp em Node.js, React e React Native** · Rocketseat · 2019
+- Português: nativo · Inglês: C2
+
+[Portfólio / currículo interativo](https://joonatassouza.github.io/) · [Extensão FlyMSG para Chrome](https://chromewebstore.google.com/detail/flymsg-ai-writing-grammar/giidlnpcdhcldhfccdhkaicefhpokghc)
