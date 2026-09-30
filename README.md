@@ -34,14 +34,16 @@ Currently **VP of Technology Development** since January 2025, with direct invol
 
 | Area | Experience |
 | --- | --- |
-| Backend | Node.js, TypeScript, JavaScript, PHP/Laravel, Fastify |
+| Backend | Node.js, TypeScript, JavaScript, PHP/Laravel, Fastify; NestJS and Express familiarity |
 | Frontend & extensions | React, Angular, Chrome/Chromium extensions, Manifest V3 |
 | Data | MongoDB, PostgreSQL, SQL Server, Redis, DynamoDB |
 | AWS | Lambda, SQS, EventBridge, Step Functions, CloudWatch, Elastic Beanstalk, EC2, S3, SES |
-| Quality & delivery | Jest, automated testing, CI/CD quality gates, legacy modernization |
+| Quality & delivery | Jest, automated testing, GitHub Actions, CI/CD quality gates, legacy modernization |
 | AI-assisted engineering | Claude, Codex, MCP, custom skills and multi-agent task orchestration |
 
-I've actively used **Jest for at least two years**. My recent work also includes migrating a PHP/Laravel system to **Node.js with Fastify**. I have familiarity with Express and Next.js; my Kafka experience is limited and my Datadog knowledge is basic. Earlier professional experience includes .NET/C#, React Native, Expo, Xamarin and Selenium.
+I've actively used **Jest for at least two years**. My recent work also includes migrating a PHP/Laravel system to **Node.js with Fastify**. I have familiarity with Express and Next.js and used NestJS during Rocketseat training and at Todos; my Kafka experience is limited and my Datadog knowledge is basic. Earlier professional experience includes .NET/C#, React Native, Expo, Xamarin and Selenium.
+
+I also have professional experience with **Google Cloud Platform (GCP)**. My strongest languages are TypeScript, JavaScript and PHP, with earlier C#/.NET experience.
 
 ### Education and languages
 
@@ -80,14 +82,16 @@ Atualmente **VP de Desenvolvimento de Tecnologia**, desde janeiro de 2025, com a
 
 | Área | Experiência |
 | --- | --- |
-| Backend | Node.js, TypeScript, JavaScript, PHP/Laravel, Fastify |
+| Backend | Node.js, TypeScript, JavaScript, PHP/Laravel, Fastify; familiaridade com NestJS e Express |
 | Frontend e extensões | React, Angular, extensões Chrome/Chromium, Manifest V3 |
 | Dados | MongoDB, PostgreSQL, SQL Server, Redis, DynamoDB |
 | AWS | Lambda, SQS, EventBridge, Step Functions, CloudWatch, Elastic Beanstalk, EC2, S3, SES |
-| Qualidade e entrega | Jest, testes automatizados, controles de qualidade no CI/CD, modernização de sistemas legados |
+| Qualidade e entrega | Jest, testes automatizados, GitHub Actions, controles de qualidade no CI/CD, modernização de sistemas legados |
 | Engenharia com IA | Claude, Codex, MCP, skills próprias e orquestração de tarefas com múltiplos agentes |
 
-Uso **Jest ativamente há pelo menos dois anos**. Meu trabalho recente também inclui a migração de um sistema PHP/Laravel para **Node.js com Fastify**. Tenho familiaridade com Express e Next.js, experiência pontual com Kafka e conhecimentos básicos de Datadog. Minha experiência profissional anterior inclui .NET/C#, React Native, Expo, Xamarin e Selenium.
+Uso **Jest ativamente há pelo menos dois anos**. Meu trabalho recente também inclui a migração de um sistema PHP/Laravel para **Node.js com Fastify**. Tenho familiaridade com Express e Next.js e utilizei NestJS em treinamentos da Rocketseat e na Todos, experiência pontual com Kafka e conhecimentos básicos de Datadog. Minha experiência profissional anterior inclui .NET/C#, React Native, Expo, Xamarin e Selenium.
+
+Também tenho experiência profissional com **Google Cloud Platform (GCP)**. Minhas principais linguagens são TypeScript, JavaScript e PHP, com experiência anterior em C#/.NET.
 
 ### Formação e idiomas
 
